@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>waheedpsycho</ShortName>
+	<Description>Search waheedpsycho - waheed alomari phd</Description>
+	<Contact>help@wordpress.com</Contact>
+	<Url type="application/atom+xml" template="https://waheedpsycho.wordpress.com/?s={searchTerms}&amp;feed=atom" />
+	<Url type="rss+xml" template="https://waheedpsycho.wordpress.com/?s={searchTerms}&amp;feed=rss2" />
+	<Url type="text/html" template="https://waheedpsycho.wordpress.com/?s={searchTerms}" method="GET" />
+	<Url type="application/opensearchdescription+xml" rel="self" template="https://waheedpsycho.wordpress.com/osd.xml" />
+	<LongName>waheedpsycho</LongName>
+	<Image height="16" width="16" type="image/vnd.microsoft.icon">https://waheedpsycho.files.wordpress.com/2020/04/cropped-cropped-waheed.jpg?w=16</Image>
+	<Image height="64" width="64" type="image/jpeg">https://waheedpsycho.files.wordpress.com/2020/04/cropped-cropped-waheed.jpg?w=64</Image>
+	<Query role="example" searchTerms="photography" />
+	<Tags>psychodrama psychodrama-and-systemic-therapy contemporary-psychodrama drama-psychotherapy-and-psychosis group-therapy-with-children psychodrama-advances-in-theory-and-practice psychodrama-empirical-research-and-science supervision-in-psychodrama the-inner-world-outside abnormal-child-psychology</Tags>
+	<Developer>Automattic</Developer>
+	<SyndicationRight>open</SyndicationRight>
+	<AdultContent>false</AdultContent>
+	<Language>ar</Language>
+	<OutputEncoding>UTF-8</OutputEncoding>
+	<InputEncoding>UTF-8</InputEncoding>
+	<moz:SearchForm>https://waheedpsycho.wordpress.com</moz:SearchForm>
+</OpenSearchDescription>
